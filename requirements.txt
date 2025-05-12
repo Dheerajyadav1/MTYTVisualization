@@ -1,0 +1,6 @@
+For Youtube Scrapper
+-> beautifulsoup4
+-> selenium
+-> pandas
+-> numpy
+-> tqdm
