@@ -40,5 +40,5 @@ Later, this scraped data can be used to visualize insights using **Power BI**.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/youtube-scraper-powerbi.git
-cd youtube-scraper-powerbi
+git clone https://github.com/Dheerajyadav1/Youtube-Scraping-and-analysis.git
+cd Youtube-Scraping-and-analysis
